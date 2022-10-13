@@ -1,0 +1,12 @@
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\MicroRabbit.Domain.Core.deps.json
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\ref\MicroRabbit.Domain.Core.dll
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\ref\MicroRabbit.Domain.Core.dll
+D:\udemy\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.pdb

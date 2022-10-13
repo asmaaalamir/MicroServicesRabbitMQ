@@ -1,0 +1,15 @@
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.deps.json
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.dll
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net5.0\ref\MicroRabbit.Banking.Domain.dll
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csproj.CoreCompileInputs.cache
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csproj.CopyComplete
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.dll
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\ref\MicroRabbit.Banking.Domain.dll
+D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.pdb

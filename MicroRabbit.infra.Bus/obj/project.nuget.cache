@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hzu8ta6JaqcDEoLoKBwEw5vCffKeTKonaQ9BrK9w+tG8xNPl5oUhdgOHhzvO7K+2HiKAG4BoOBN0xHy54DBbcA==",
+  "success": true,
+  "projectFilePath": "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

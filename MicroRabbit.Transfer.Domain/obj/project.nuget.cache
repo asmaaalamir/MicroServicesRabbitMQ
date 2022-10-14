@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pfuv+X2yT8s/hPXc9crwfK0b+RJbgvLzoMDDTFqXwzDjaoYmp/yvhZX2l+GdHs31TNWU75etcuskh8n/Brp1gQ==",
+  "dgSpecHash": "PoSMjVSSac+E2wanoNfJFtEZhQinHUfxTQjQqxM5i14TtnEREdGupg400vhhfxX9b/3leq+e0S4mWwmpYOUq0g==",
   "success": true,
   "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
   "expectedPackageFiles": [],

@@ -15,11 +15,9 @@ D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\ref\MicroRabbit
 D:\udemy\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.deps.json
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.dll
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\ref\MicroRabbit.Banking.Domain.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.AssemblyInfo.cs
@@ -28,3 +26,5 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\ref\MicroRabbit.Banking.Domain.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\MicroRabbit.Banking.Domain.csproj.AssemblyReference.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Domain\obj\Debug\net5.0\refint\MicroRabbit.Banking.Domain.dll

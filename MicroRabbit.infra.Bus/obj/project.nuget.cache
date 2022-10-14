@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oL4fmzBRQ2J6LI7D7Vr9IKEPVBr7T2t+33U+kzBScsk+8aPhIW2r+O8oj7V0sssAow/6ROcrxvX5K9CJMqQ6Kg==",
+  "dgSpecHash": "WMlQbdDT6SXKGt8peZz/fAyiiZG+hAGk60E/P9FbXA2znyJbCPs7xqACalGOd5GO2T7YorL0d//0gLjfVkvMVg==",
   "success": true,
   "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj",
   "expectedPackageFiles": [

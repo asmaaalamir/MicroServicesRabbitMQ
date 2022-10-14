@@ -22,13 +22,11 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Data.runtimeconfig.json
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Data.runtimeconfig.dev.json
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Data.dll
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\ref\MicroRabbit.Banking.Data.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Data.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Domain.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.csprojAssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.GeneratedMSBuildEditorConfig.editorconfig
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.AssemblyInfo.cs
@@ -38,3 +36,5 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\ref\MicroRabbit.Banking.Data.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.genruntimeconfig.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\MicroRabbit.Banking.Data.csproj.AssemblyReference.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Data\obj\Debug\net5.0\refint\MicroRabbit.Banking.Data.dll

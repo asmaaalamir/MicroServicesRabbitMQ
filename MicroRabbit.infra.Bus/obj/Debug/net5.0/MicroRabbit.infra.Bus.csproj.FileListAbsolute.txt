@@ -15,11 +15,9 @@ D:\udemy\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\ref\MicroRabbit.infr
 D:\udemy\MicroRabbit\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.infra.Bus.deps.json
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.infra.Bus.dll
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\bin\Debug\net5.0\ref\MicroRabbit.infra.Bus.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.infra.Bus.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csprojAssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.GeneratedMSBuildEditorConfig.editorconfig
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.AssemblyInfoInputs.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.AssemblyInfo.cs
@@ -28,3 +26,5 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\Mi
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\ref\MicroRabbit.infra.Bus.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\MicroRabbit.infra.Bus.csproj.AssemblyReference.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\obj\Debug\net5.0\refint\MicroRabbit.infra.Bus.dll

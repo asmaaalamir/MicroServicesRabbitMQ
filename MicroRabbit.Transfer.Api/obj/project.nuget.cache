@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "H4uC8Z0tRbWkGcVYgpk2AJrjY/asR82AkV7yyh1x+Ms2DIHVXoroZgaWtjQvbg1iETjGmVmzC2nW1wTprFZP5g==",
+  "dgSpecHash": "9NN6PPyaUfPsKMpEaSoVjt8bQcGeMMtSBRxGK1E089V7+ZjBcb2bDGZuZQIduk7nWwiYic9FtGB25ZPMgpJxFw==",
   "success": true,
   "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Api\\MicroRabbit.Transfer.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",

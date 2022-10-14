@@ -80,7 +80,6 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Api.runtimeconfig.json
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Api.runtimeconfig.dev.json
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Api.dll
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\ref\MicroRabbit.Banking.Api.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Api.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Humanizer.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MediatR.dll
@@ -132,7 +131,6 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Data.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.infra.Bus.pdb
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.GeneratedMSBuildEditorConfig.editorconfig
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.AssemblyInfo.cs
@@ -140,7 +138,6 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\staticwebassets\MicroRabbit.Banking.Api.StaticWebAssets.Manifest.cache
-D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\staticwebassets\MicroRabbit.Banking.Api.StaticWebAssets.xml
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\scopedcss\bundle\MicroRabbit.Banking.Api.styles.css
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.RazorTargetAssemblyInfo.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csproj.CopyComplete
@@ -148,3 +145,5 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\ref\MicroRabbit.Banking.Api.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.genruntimeconfig.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csproj.AssemblyReference.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\refint\MicroRabbit.Banking.Api.dll

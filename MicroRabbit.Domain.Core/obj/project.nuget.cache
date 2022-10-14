@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "D0ZVSdUMDECsu0Q+giaTs1qke48XemkqDJM15VIQuLzOHO58+KCHntM9PsNw6Bzvilk7PMNbDT4nZ71iDbcUiQ==",
+  "dgSpecHash": "fsyYkyhwPXBah9Yfl6JYhIWUhURWpXLfvMXYPS31u1oBjdIie7SLD5Pvx642j6V6FVcRJGBj7rrq+d0Keur5wg==",
   "success": true,
   "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [

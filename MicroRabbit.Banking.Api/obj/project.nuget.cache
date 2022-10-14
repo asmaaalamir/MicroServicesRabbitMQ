@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HZcqKLYV+91SFMvTvsUa1SDFaPN5uhGU8Wwk077zhUvlnSfi/aHOVdEiTPGSK7f5H5znwu/bQEuk2ucl+mw9pA==",
+  "dgSpecHash": "q+YedXeSXOPG0sbz2JwMYoccrTTcvYwYKQrXfPdtu+snBtuhYyZQHIQxgOCG/hZyJejNrsbZ8zwBwfYiBqIgFQ==",
   "success": true,
-  "projectFilePath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
+  "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Electronica Care\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

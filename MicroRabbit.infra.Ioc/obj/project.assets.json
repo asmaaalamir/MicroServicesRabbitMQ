@@ -5589,11 +5589,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Ioc\\MicroRabbit.infra.Ioc.csproj",
+      "projectUniqueName": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Ioc\\MicroRabbit.infra.Ioc.csproj",
       "projectName": "MicroRabbit.infra.Ioc",
-      "projectPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Ioc\\MicroRabbit.infra.Ioc.csproj",
+      "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Ioc\\MicroRabbit.infra.Ioc.csproj",
       "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
-      "outputPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Ioc\\obj\\",
+      "outputPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Ioc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5617,20 +5617,20 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
-              "projectPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
+            "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj": {
+              "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj"
             },
-            "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
-              "projectPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
+            "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj": {
+              "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj"
             },
-            "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
-              "projectPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
+            "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj": {
+              "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj"
             },
-            "D:\\udemy\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
-              "projectPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+            "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+              "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
             },
-            "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj": {
-              "projectPath": "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj"
+            "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj": {
+              "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj"
             }
           }
         }

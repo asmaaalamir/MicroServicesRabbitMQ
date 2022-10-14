@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWmQhzmR+Qc9vQEvXhBn3uG68ldEhpOZlwTQIKdeIltKrpWWzthnB2vAB+dsiwUZd89pZo4W+qKyQyoJu0WQ4g==",
+  "dgSpecHash": "D0ZVSdUMDECsu0Q+giaTs1qke48XemkqDJM15VIQuLzOHO58+KCHntM9PsNw6Bzvilk7PMNbDT4nZ71iDbcUiQ==",
   "success": true,
-  "projectFilePath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

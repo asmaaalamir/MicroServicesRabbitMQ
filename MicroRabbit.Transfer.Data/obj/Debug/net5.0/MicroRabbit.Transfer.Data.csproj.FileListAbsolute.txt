@@ -1,0 +1,11 @@
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Transfer.Data.deps.json
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Transfer.Data.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\ref\MicroRabbit.Transfer.Data.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Transfer.Data.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.AssemblyInfoInputs.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.AssemblyInfo.cs
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.csproj.CoreCompileInputs.cache
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\ref\MicroRabbit.Transfer.Data.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.pdb

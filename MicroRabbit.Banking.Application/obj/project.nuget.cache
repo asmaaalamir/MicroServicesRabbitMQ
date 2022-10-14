@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xkJ6iNVyMFCaG2ccmI3V8PljkA/qU9oHw07UWO5uu45k5TJ3XVsukyNPDEJLGYrC+ecmpr7yGvLMFfMM4ncs0w==",
+  "dgSpecHash": "+aqeIq/8pq36eAB9lNY8XdMtTeV14mEcXRmI1g1n22RgqEJc9tRcGr6bNuxSrMQi9b674sLOLEyekQMrxxh0RA==",
   "success": true,
-  "projectFilePath": "D:\\udemy\\MicroRabbit\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
+  "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

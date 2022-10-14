@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VuNeDTeYbFG8ApF5U9aM8icLqPBnkGyO+rji1LCSlctCxD0Kqf9aQ9i7RfUkWfCorfWOHUrgxPcWskft9wHN6g==",
+  "dgSpecHash": "47wpu8mJHlkm86Tvtf7fb60JMWrYVi2UunZmVECs5BkqySDCejAEGy1WxKN6CPIBpff8y29pg6u33jIeBYaYHw==",
   "success": true,
-  "projectFilePath": "D:\\udemy\\MicroRabbit\\MicroRabbit.infra.Ioc\\MicroRabbit.infra.Ioc.csproj",
+  "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Ioc\\MicroRabbit.infra.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Electronica Care\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

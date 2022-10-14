@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MicroRabbit.infra.Bus
-build_property.ProjectDir = D:\udemy\MicroRabbit\MicroRabbit.infra.Bus\
+build_property.ProjectDir = D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Bus\

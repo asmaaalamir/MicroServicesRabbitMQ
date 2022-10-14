@@ -147,3 +147,9 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.genruntimeconfig.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csproj.AssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\refint\MicroRabbit.Banking.Api.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Application.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Data.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Application.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Data.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.pdb

@@ -10,3 +10,6 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\obj\Debug\net
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\obj\Debug\net5.0\MicroRabbit.Transfer.Domain.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\obj\Debug\net5.0\MicroRabbit.Transfer.Domain.csproj.AssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\obj\Debug\net5.0\refint\MicroRabbit.Transfer.Domain.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Domain\obj\Debug\net5.0\MicroRabbit.Transfer.Domain.csproj.CopyComplete

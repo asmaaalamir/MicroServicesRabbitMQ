@@ -16,3 +16,5 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\obj\Debug\net5.0\MicroRabbit.Transfer.Data.csproj.CopyComplete
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb

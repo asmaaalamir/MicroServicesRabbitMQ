@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sO5Rqa/qPtRNs/dqmR7GKLM2VjGbw+YlL+mXaGXL4jXKm2TQwkM6w2TkOd2K48du6Oae0qcLXJnYsTgh1brMmg==",
+  "dgSpecHash": "h24HIbsrqKAXdBymamoXhHUkgM0WGTocdj+Xxu2W0mOEG6dz2qYuUEiBflPfAvQnWHEoFGPXuVcz9oPMsTW3+g==",
   "success": true,
   "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Banking.Api\\MicroRabbit.Banking.Api.csproj",
   "expectedPackageFiles": [

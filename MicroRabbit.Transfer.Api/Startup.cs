@@ -14,6 +14,9 @@ using System.Threading.Tasks;
 using MicroRabbit.infra.Ioc;
 using Microsoft.EntityFrameworkCore;
 using MicroRabbit.Transfer.Data.Context;
+using MicroRabbit.Domain.Core.Bus;
+using MicroRabbit.Transfer.Domain.EventHandler;
+using MicroRabbit.Transfer.Domain;
 
 namespace MicroRabbit.Transfer.Api
 {
@@ -63,6 +66,13 @@ namespace MicroRabbit.Transfer.Api
             {
                 endpoints.MapControllers();
             });
+            ConfigureEventBus(app);
+        }
+
+        private void ConfigureEventBus(IApplicationBuilder app)
+        {
+            var eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
+            eventBus.Subscriber<TransferCreatedEvent, TransferEventHandler>();
         }
     }
 }

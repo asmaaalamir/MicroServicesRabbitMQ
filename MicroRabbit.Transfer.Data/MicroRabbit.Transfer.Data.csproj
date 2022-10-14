@@ -15,5 +15,9 @@
   <ItemGroup>
     <Folder Include="Repository\" />
   </ItemGroup>
+  
+  <ItemGroup>
+    <ProjectReference Include="..\MicroRabbit.Transfer.Domain\MicroRabbit.Transfer.Domain.csproj" />
+  </ItemGroup>
 
 </Project>

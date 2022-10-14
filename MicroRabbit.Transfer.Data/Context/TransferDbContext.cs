@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using MicroRabbit.Transfer.Domain.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,6 @@ namespace MicroRabbit.Transfer.Data.Context
         {
 
         }
-       // public DbSet<Account> Accounts { get; set; }
+        public DbSet<TransferLog> TransferLogs { get; set; }
     }
 }

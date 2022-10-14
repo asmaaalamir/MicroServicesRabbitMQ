@@ -413,6 +413,12 @@
               },
               "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj": {
                 "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.infra.Bus\\MicroRabbit.infra.Bus.csproj"
+              },
+              "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+                "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj"
+              },
+              "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj": {
+                "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Data\\MicroRabbit.Transfer.Data.csproj"
               }
             }
           }
@@ -526,6 +532,75 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "projectName": "MicroRabbit.Transfer.Application",
+        "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
+        "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
+        "outputPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Electronica Care\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj": {
+                "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj"
+              },
+              "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj": {
+                "projectPath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

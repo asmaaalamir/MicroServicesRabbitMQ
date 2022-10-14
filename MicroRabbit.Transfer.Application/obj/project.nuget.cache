@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+GT+q0PRwTZiYLZvKpw5iUXO8eIvM3yX7coB+wUa/YUvigpC8tDdrQY2Gd2cLQFHRrqMbHf5rczKxwB3HJTWzQ==",
+  "dgSpecHash": "1TVhCKdPirrRrO4OguKMv/NV2MB8pyH6Irvx7CIviJwM4pKibKOft7UUboTu6K+zH1r6lNmnq037eGP2B4ExVg==",
   "success": true,
   "projectFilePath": "D:\\udemy\\project\\MicroServicesRabbitMQ\\MicroRabbit.Transfer.Application\\MicroRabbit.Transfer.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Electronica Care\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

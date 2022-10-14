@@ -76,3 +76,5 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Api\bin\Debug\net5.0
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Api\bin\Debug\net5.0\MicroRabbit.infra.Bus.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.dll
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Application.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.Transfer.Api\bin\Debug\net5.0\MicroRabbit.Transfer.Application.pdb

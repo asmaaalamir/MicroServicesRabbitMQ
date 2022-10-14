@@ -44,3 +44,9 @@ D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\obj\Debug\net5.0\re
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\obj\Debug\net5.0\MicroRabbit.infra.Ioc.pdb
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\obj\Debug\net5.0\MicroRabbit.infra.Ioc.csproj.AssemblyReference.cache
 D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\obj\Debug\net5.0\refint\MicroRabbit.infra.Ioc.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\bin\Debug\net5.0\MicroRabbit.Transfer.Application.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\bin\Debug\net5.0\MicroRabbit.Transfer.Data.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.dll
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\bin\Debug\net5.0\MicroRabbit.Transfer.Application.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\bin\Debug\net5.0\MicroRabbit.Transfer.Data.pdb
+D:\udemy\project\MicroServicesRabbitMQ\MicroRabbit.infra.Ioc\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.pdb

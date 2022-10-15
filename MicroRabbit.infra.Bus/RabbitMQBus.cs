@@ -78,6 +78,7 @@ namespace MicroRabbit.infra.Bus
             channel.QueueDeclare(eventName, false, false, false, null);
             var consumer = new AsyncEventingBasicConsumer(channel);
             consumer.Received += Consumer_Received;
+
             channel.BasicConsume(eventName,true , consumer);
         }
 
